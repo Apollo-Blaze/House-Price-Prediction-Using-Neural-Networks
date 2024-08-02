@@ -1,7 +1,7 @@
 # 🏠 House Price Prediction Using Neural Networks
 
 ## Overview
-This project aims to predict house prices using a neural network model. The dataset used is from Kaggle's house sales prediction dataset.
+This project aims to predict house prices using a ANN (Artificial Neural Network) model. The dataset used is from Kaggle's house sales prediction dataset.
 
 ## Dataset
 - **Source**: Kaggle House Sales Prediction
